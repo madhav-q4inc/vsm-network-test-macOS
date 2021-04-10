@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#This script tests the whether your MAC can connect to the Q4 VSM Platform
 RED='\033[0;31m'
 NC='\033[0m' # No Color
 GREEN='\033[0;32m'
