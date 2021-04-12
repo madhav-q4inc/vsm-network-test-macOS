@@ -3,9 +3,9 @@
 RED='\033[0;31m'
 NC='\033[0m' # No Color
 GREEN='\033[0;32m'
-EXIT=0
 #Testing TCP ports 
-
+echo "######## Q4inc VSM Test for macOS ########"
+echo "### All lines below should be in green ###"
 nc -vz tokbox.com 443 &>/dev/null
 if [ $? = 0 ]
 then
