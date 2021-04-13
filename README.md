@@ -1,7 +1,7 @@
-# vsm-network-test-macOS
+# vsm-network-test
 Script to test network ports required for Q4inc VSM events to work on macOS
 
-## Instructions
+## Instructions for macOS
 - Click on Code > Download zip.
 - Unzip the archive 'vsm-network-test-macOS-main.zip'.
 - Open terminal: Type `cd ~/Downloads/vsm-network-test-macOS-main`
