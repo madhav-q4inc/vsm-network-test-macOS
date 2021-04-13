@@ -12,9 +12,9 @@ Script to test network ports required for Q4inc VSM events to work on macOS
 
 
 ## Instructions for Windows.
-- Download vsm-network-test-windows.ps1 ( Please make sure Script is in Download folder, not in subfolders ) 
+- Click on Code > Download Zip > Extract the folder 
 - Open CMD ( Command Prompt )
-- run command: powershell %USERPROFILE%\Downloads\vsm-network-test-windows.ps1 
+- run command: powershell %USERPROFILE%\Downloads\vsm-network-test-macOS-Windows-main\vsm-network-test-macOS-Windows-main\vsm-network-test-windows.ps1
 - If it gives security Warning to Run the script, press R and Hit Enter. 
 
 The list of domains and settings is at the end of the script.
